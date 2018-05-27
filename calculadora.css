@@ -1,0 +1,46 @@
+.Calculadora{
+  background: #00BFFF;
+  min-width: 510px;
+  width: 40%;
+  min-height: 540px;
+  margin-top:8px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+input{
+  width:75%;
+  height: 70px;
+  text-align: right;
+  color:#FF0000;
+  font-size: 55px;
+  padding-right: 1px;
+}
+
+button{
+  margin: 8px;
+  width: 15%;
+  height: 76px;
+  color: white;
+  background: #888888;
+  font-size: 2.5em;
+  text-align: center;
+  line-height: 1.5em;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+li{
+  background: #ADD8E6;
+  width: 72%;
+  margin-left: 17px;
+  margin-top: 1px;
+  font-size: 1.5em;
+
+  line-height: 1.5em;
+}
